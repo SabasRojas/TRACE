@@ -1,0 +1,42 @@
+
+ test | running Crawler | START:2025-04-16 23:33:14 | END   | 2025-04-16 23:34:35.500243
+ test | running brute force | START:2025-04-16 23:44:18
+ test | running brute force | START:2025-04-16 23:44:50
+ test | running brute force | START:2025-04-16 23:45:20
+ test | running brute force | START:2025-04-16 23:47:55
+ test | running brute force | START:2025-04-16 23:48:29
+ test | running brute force | START:2025-04-16 23:50:33
+ test | running brute force | START:2025-04-16 23:53:04
+ test | running brute force | START:2025-04-17 00:00:19
+ test | running brute force | START:2025-04-17 00:04:42
+ test | running brute force | START:2025-04-17 00:05:57
+ test | running brute force | START:2025-04-17 00:07:19
+ test | running brute force | START:2025-04-17 00:08:03
+ test | running brute force | START:2025-04-17 00:09:46
+ test | running brute force | START:2025-04-17 00:10:03 | END   | 2025-04-17 00:10:04.483952
+ test | running brute force | START:2025-04-17 00:11:46 | END   | 2025-04-17 00:11:47.543899
+ test | running brute force | START:2025-04-17 00:12:20 | END   | 2025-04-17 00:12:21.683953
+ test | running brute force | START:2025-04-17 00:13:41 | END   | 2025-04-17 00:13:42.102092
+ test | running brute force | START:2025-04-17 00:15:04 | END   | 2025-04-17 00:15:04.751682
+ test | running Crawler | START:2025-04-17 00:19:05
+ test | running Crawler | START:2025-04-17 00:20:39 | END   | 2025-04-17 00:21:57.622434
+ test | running Crawler | START:2025-04-17 00:23:43 | END   | 2025-04-17 00:24:50.583647
+ test | running Crawler | START:2025-04-17 00:26:30
+ test | running Crawler | START:2025-04-17 00:28:01 | END   | 2025-04-17 00:28:08.604353
+ test | running Crawler | START:2025-04-17 00:42:05 | END   | 2025-04-17 00:42:11.975941
+ test | running Crawler | START:2025-04-17 00:43:37 | END   | 2025-04-17 00:43:44.018437
+ test | running Crawler | START:2025-04-17 00:44:14 | END   | 2025-04-17 00:44:21.067478
+ test | running Crawler | START:2025-04-17 00:49:52 | END   | 2025-04-17 00:49:59.243883
+ test | running Crawler | START:2025-04-17 00:53:38 | END   | 2025-04-17 00:53:44.906102
+ test | running Crawler | START:2025-04-17 00:55:47 | END   | 2025-04-17 00:55:54.842898
+ test | running Crawler | START:2025-04-17 00:56:17 | END   | 2025-04-17 00:56:24.279493
+ test | running Crawler | START:2025-04-17 01:01:54 | END   | 2025-04-17 01:02:01.885877
+ test | running Crawler | START:2025-04-17 01:02:10 | END   | 2025-04-17 01:02:17.469453
+ test | running Crawler | START:2025-04-17 01:03:06
+ test | running Crawler | START:2025-04-17 01:03:52 | END   | 2025-04-17 01:03:58.681861
+ test | running Crawler | START:2025-04-17 01:05:07 | END   | 2025-04-17 01:05:14.168180
+ test | running Crawler | START:2025-04-17 01:07:15 | END   | 2025-04-17 01:07:21.795519
+ test | generating wordlist of usernames and passwords | START:2025-04-29 21:41:36 | END   | 2025-04-29 21:42:44.104001
+ test | generating wordlist of usernames and passwords | START:2025-04-29 21:47:33 | END   | 2025-04-29 21:48:39.845558
+ test | generating wordlist of usernames and passwords | START:2025-04-29 21:49:24 | END   | 2025-04-29 21:50:32.085741
+None | running Crawler | START: 2025-05-06 21:38:28 | END   | 2025-05-06 21:38:39.028903
